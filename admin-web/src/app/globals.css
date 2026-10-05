@@ -1,0 +1,6 @@
+/*
+ * globals.css — styles globaux de l'admin (Tailwind + base).
+ * À contenir : @tailwind base/components/utilities, variables CSS du thème sombre
+ * des maquettes (fond, surfaces, accent), styles des scrollbars, focus rings.
+ * Utilitaires de composants spécifiques uniquement s'ils ne tiennent pas en classes.
+ */

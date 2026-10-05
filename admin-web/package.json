@@ -1,0 +1,3 @@
+{
+  "//": "Dependances de l'admin web. À contenir : next (App Router), react, react-dom, typescript, tailwindcss + autoprefixer/postcss, axios (ou fetch natif), zustand ou @tanstack/react-query (cache), recharts (courbes du dashboard) ; scripts dev/build/start/lint. Aucune installation avant l'écriture du code (ARCHITECTURE.md §12)."
+}

@@ -1,0 +1,3 @@
+{
+  "//": "Dependances et scripts de l'app mobile. À contenir : expo, react-navigation (native + native-stack + bottom-tabs), axios, expo-camera (scan QR), expo-secure-store (jeton), expo-print + expo-file-system (e-PV PDF), expo-location (lieu, optionnel), typescript, jest-expo (tests) ; scripts start/android/ios/test. NE RIEN INSTALLER tant que le code n'est pas ecrit (voir ARCHITECTURE_MOBILE.md §6)."
+}

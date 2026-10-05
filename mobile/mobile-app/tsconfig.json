@@ -1,0 +1,9 @@
+{
+  // TypeScript — configuration du projet mobile.
+  // À contenir :
+  //   "extends": base Expo ("expo/tsconfig.base"),
+  //   "strict": true (typage strict obligatoire),
+  //   "compilerOptions" : alias de chemins "/* -> src/*",
+  //   "include": App.tsx, src/**/* ; "exclude": node_modules.
+  // Fichier JSONC : les commentaires ci-dessus sont acceptes par tsc.
+}

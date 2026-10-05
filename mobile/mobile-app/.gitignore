@@ -1,0 +1,5 @@
+# .gitignore — exclusions git de l'app mobile.
+# À contenir : node_modules/, .expo/ (cache), dist/, build/, .env
+# (secrets — seul .env.example est versionné), *.log, .DS_Store,
+# les fichiers natifs ios/ et android/ si regeneres par prebuild.
+

@@ -1,0 +1,3 @@
+{
+  "//": "Configuration Expo du squelette de REFERENCE. À contenir : nom, slug, icônes (assets/), permission camera (scan QR), orientation portrait. L'app active (9 ecrans) est dans mobile/mobile-app/ (copie de Desktop/Maquette/mobile-app)."
+}

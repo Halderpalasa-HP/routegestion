@@ -1,0 +1,4 @@
+# .gitignore — exclusions git du backend.
+# À contenir : __pycache__/, *.pyc, .venv/, venv/, .env, storage/ (fichiers
+# uploadés), .pytest_cache/, alembic/__pycache__, fichiers IDE (.idea, .vscode).
+

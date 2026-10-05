@@ -1,0 +1,3 @@
+# .gitignore — exclusions git de l'admin web.
+# À contenir : node_modules/, .next/, out/, .env*.local, *.tsbuildinfo, .DS_Store.
+

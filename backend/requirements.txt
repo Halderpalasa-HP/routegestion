@@ -1,0 +1,11 @@
+# requirements.txt — dépendances Python 3.12 du backend (ordre groupé).
+# À contenir :
+#   Web       : fastapi, uvicorn[standard]
+#   ORM/BD    : sqlalchemy>=2, alembic, pymysql  (ou asyncmy si async)
+#   Validation: pydantic, pydantic-settings
+#   Auth      : passlib[bcrypt] (ou argon2-cffi), python-multipart (uploads)
+#   Métier    : segno (QR SVG), reportlab (e-PV PDF)
+#   Divers    : slowapi (rate limiting), python-dotenv
+#   Tests     : pytest, httpx
+# Réf. : ARCHITECTURE.md §12. Aucune installation sans demande explicite.
+

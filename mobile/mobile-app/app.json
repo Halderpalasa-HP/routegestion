@@ -1,0 +1,3 @@
+{
+  "//": "Configuration Expo. À contenir : nom « Contrôle Véhicule », slug, version, orientation portrait, icônes et splash (assets/), permissions camera necessaires au scan QR (expo-camera), point d'entree App.tsx. Aucun commentaire possible en JSON strict : decrire ici puis completer au moment du code."
+}

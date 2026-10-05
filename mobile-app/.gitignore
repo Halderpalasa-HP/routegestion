@@ -1,0 +1,5 @@
+# .gitignore — exclusions git du squelette mobile de référence.
+# À contenir : node_modules/, .expo/, dist/, .env, *.log.
+# NOTE : l'app mobile active vit dans mobile/mobile-app/ (dépôt)
+# (copie de Desktop\Maquette\mobile-app — voir ARCHITECTURE_MOBILE.md).
+

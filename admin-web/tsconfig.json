@@ -1,0 +1,6 @@
+{
+  // TypeScript — configuration de l'admin web.
+  // À contenir : "strict": true, "paths" alias "/* -> src/*",
+  // plugin "@/*" pour Next, include src et next-env.d.ts.
+  // (JSONC : commentaires acceptés.)
+}
